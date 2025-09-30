@@ -1,36 +1,13 @@
 Hello ,
+As a skilled mobile app developer, I’d be glad to help you design and develop a new mobile application
 
-I’d be glad to help you design and develop a new mobile application that not only provides a smooth user experience but also integrates multiple monetization strategies, including paid download, in-app advertising, and subscriptions.
+My skills are :
+- Cross-platform development (iOS & Android) using Flutter or React Native, Swift, Java
+- PHP, Node.js, Laravel, Javascript, CSS, HTML, Bootstrap, MYSQL, MongoDB
+- intuitive UI, secure login, user dashboards, notifications, and content management.
+- Backend Integration: Secure data storage and API connections (Firebase, Node.js, or Laravel backend).
+- App Store Deployment: Assistance with publishing to both iOS App Store and Google Play.
 
-✅ What I Will Deliver
-
-Cross-platform development (iOS & Android) using Flutter or React Native, Swift, Java for efficiency.
-
-Core Features customized to your app’s purpose: intuitive UI, secure login, user dashboards, notifications, and content management.
-
-Monetization Setup:
-
-Cost-to-download option for app stores
-
-Integrated ad networks (Google AdMob, etc.)
-
-Subscription tiers with premium features
-
-Backend Integration: Secure data storage and API connections (Firebase, Node.js, or Laravel backend).
-
-App Store Deployment: Assistance with publishing to both iOS App Store and Google Play.
-
-✅ Why Me
-
-Experienced in end-to-end app development with monetization built in.
-
-Skilled in balancing UI/UX design with scalability and performance.
-
-Strong communication to guide you on budget, timelines, and feature prioritization.
-
-Focus on delivering apps that are ready for growth and user adoption.
-
-Could you share more about your app’s core purpose and main functionality? That will help me propose the most effective roadmap and accurate estimate.
-
+I can begin immediately.
 Looking forward to working with you,
 Jade Franco
